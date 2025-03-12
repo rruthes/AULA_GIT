@@ -1,0 +1,15 @@
+git init
+git clone https://github.com/Maua-Dev/port_mss_action.git .
+git status
+git add .
+git commit -m "Initial commit"
+git pull
+git push
+
+
+COMMITS PADRÕES (mais comuns)
+git commit -m "feat: nova feature/funcionalidade"
+git commit -m "fix: correção de um erro"
+git commit -m "test: alteração/criação de códigos de teste"
+git commit -m "refactor: mudança de código que não tenha impacto na lógica."
+git commit -m "revert: voltar para outra versão do código"

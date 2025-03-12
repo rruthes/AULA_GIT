@@ -1,0 +1,4 @@
+git branch "nova funcao legal"
+git checkout "main"
+git checkout -b "outra funcao daora"
+git merge "main"
